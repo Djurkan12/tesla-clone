@@ -21,7 +21,7 @@ const Header = ({ menu, setMenu }) => {
             </a>
           ))}
 
-        <a href="#">Solar Roof</a>
+        <a href="#">Solar Roofs</a>
         <a href="#">Solar Panels</a>
       </Menu>
       <RightMenu>
